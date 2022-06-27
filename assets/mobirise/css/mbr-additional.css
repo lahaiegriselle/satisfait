@@ -1657,7 +1657,7 @@ a {
 .cid-t9W7GKAgim {
   padding-top: 10rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-t9W7GKAgim .container-fluid {
   padding: 0;
@@ -1724,7 +1724,7 @@ a {
   width: 100%;
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #8A8A8A;
+  color: #ffffff;
 }
 @media (max-width: 1024px) {
   .cid-t9W7GKAgim .label-text {
@@ -1743,7 +1743,7 @@ a {
 }
 .cid-t9W7GKAgim .mbr-text {
   letter-spacing: inherit;
-  color: #000000;
+  color: #ffe161;
   width: 100%;
   margin-top: 10px;
   margin-bottom: 0;
